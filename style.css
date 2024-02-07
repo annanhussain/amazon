@@ -20,7 +20,7 @@
 
 }
   .nav2 {
-    background-image:url("C:/Users/annan/Downloads/amazon_logo.png");
+    background-image:url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -199,7 +199,7 @@ ul a {
     
 }
 .logo {
-    background-image:url("C:/Users/annan/Downloads/amazon_logo.png");
+    background-image:url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
